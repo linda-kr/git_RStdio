@@ -1,1 +1,2 @@
 plot(mtcars)
+plot(cars)
